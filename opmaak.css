@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+div{
+color: azure;
+}
+.flex-container {
+    display: flex;
+    background-color: aliceblue;
+    flex-direction: row-reverse;
+    justify-content: center;
+  }
+.flex-container > :nth-child(1){
+    background-color: blue;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+.flex-container > :nth-child(2){
+    background-color: black;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+.flex-container >:nth-child(3){
+    background-color:red;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+.flex-container >:nth-child(4){
+    background-color: green;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+
