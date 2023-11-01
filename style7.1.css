@@ -1,0 +1,29 @@
+.container1{
+    background-color: crimson;
+    color: rgb(255, 255, 255);
+    height: 70px;
+    margin-left: -8px;
+    margin-top: -20px;
+    margin-right: -8px;
+}
+.container2{
+background-color: rgb(254, 220, 0);
+height: 230px;
+margin-top: -20px;
+margin-left: -8px;
+margin-right: -8px;
+}
+.container3{
+background-color: orange;
+height: 230px;
+margin-top: -20px;
+margin-left: -8px;
+margin-right: -8px;
+}
+.container4{
+background-color: green;
+height: 230px;
+margin-top: -20px;
+margin-left: -8px;
+margin-right: -8px;
+}
